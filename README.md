@@ -2,8 +2,8 @@
 - 👀 I’m interested in .NET
 - 🌱 I’m currently learning .NET Core
 - 📫 How to reach me ...
-Skype: quocthao23061998.tg
-Email: quocthao23061998.tg@gmail.com
+-- Skype: quocthao23061998.tg
+-- Email: quocthao23061998.tg@gmail.com
 
 <!---
 jinkun1998/jinkun1998 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
