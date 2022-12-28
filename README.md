@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jinkun1998
-- 👀 I’m interested in .NET
-- 🌱 I’m currently learning .NET Core
+- 👀 I’m interested in .NET, .NET Core
+- 🌱 I’m currently learning ReactJS
 - 📫 How to reach me ...
 - Skype: quocthao23061998.tg
 - Email: quocthao23061998.tg@gmail.com
