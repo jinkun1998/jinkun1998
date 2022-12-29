@@ -1,3 +1,5 @@
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/jinkun1998/jinkun1998/blob/main/devcard.svg" width="400" alt="Quoc Thao's Dev Card"/></a>
+
 - 👋 Hi, I’m @jinkun1998
 - 👀 I’m interested in .NET, .NET Core
 - 🌱 I’m currently learning ReactJS
