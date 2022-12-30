@@ -5,7 +5,7 @@
 - Skype: quocthao23061998.tg
 - Email: quocthao23061998.tg@gmail.com
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/jinkun1998/jinkun1998/blob/main/devcard.svg" width="400" alt="Quoc Thao's Dev Card"/></a>
+<a href="https://app.daily.dev/jinkun1998"><img src="https://github.com/jinkun1998/jinkun1998/blob/main/devcard.svg" width="400" alt="Quoc Thao's Dev Card"/></a>
 
 <!---
 jinkun1998/jinkun1998 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
