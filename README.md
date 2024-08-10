@@ -24,11 +24,11 @@
 ![DevExpress](https://img.shields.io/badge/DevExpress-FF7200?logo=DevExpress&logoColor=white&style=for-the-badge)
 ### Back-End:
 ![C#](https://img.shields.io/badge/C%20Sharp-239120?logo=CSharp&logoColor=white&style=for-the-badge)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=for-the-badge)
+<!--![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=for-the-badge)
 ### Front-End:
 ![React](https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white&style=for-the-badge)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=HTML5&logoColor=white&style=for-the-badge)
-![CSS](https://img.shields.io/badge/CSS-E34F26?logo=CSSWizardry&logoColor=white&style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS-E34F26?logo=CSSWizardry&logoColor=white&style=for-the-badge)-->
 ### Cross-platform:
 ![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?logo=Xamarin&logoColor=white&style=for-the-badge)
 ![XAML](https://img.shields.io/badge/XAML-0C54C2?logo=XAML&logoColor=white&style=for-the-badge)
