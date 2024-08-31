@@ -67,8 +67,6 @@
                                 <use xlink:href="#path-11"></use>
                             </mask>
                             <g transform="translate(0, 0.000000)" mask="url(#mask-12)">
-                <image x="0" y="0" width="64" height="64" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAQEBAQEBAQFBQQGBgYGBgkIBwcICQ0KCgoKCg0UDQ8NDQ8NFBIWEhESFhIgGRcXGSAlHx4fJS0pKS05NjlLS2QBBAQEBAQEBAUFBAYGBgYGCQgHBwgJDQoKCgoKDRQNDw0NDw0UEhYSERIWEiAZFxcZICUfHh8lLSkpLTk2OUtLZP/AABEIADAAMAMBIgACEQEDEQH/xAB/AAEBAQEAAwAAAAAAAAAAAAAHBgUIAQMEEAACAgEDAgUDAwUBAAAAAAABAgMEBQAREgYxBxMUIUEiMlEVQmEWI3GBkaEBAQEBAQEAAAAAAAAAAAAAAAQDBQABEQACAgEEAQMFAAAAAAAAAAABAgMRAAQSITFREyJhIzJBcYH/2gAMAwEAAhEDEQA/AKfp+wlbI153IIjO+rT+q4JJ35sw+TosyVv0GKv2I0LtFHyAXuSDrzDkYLtNZyVjLx7sx9uJ2+dUVgvBB5w0ke8g5i0rnWnVnUcduXqSXGxPKDFWjldUijJ2X7fnbudPOarZPC4aKnkbovM8W6WACplT4LD4YdjrnXCNTbP4jz2kKyS8JhCQSU7bg/8Ao069R5LHrgumalWV3MNVw3M7sNnK+5H5KnR0lffV9jNKfSQjRq4VQyv3feS3TmWWbNx0Iw6QhSffty1mddZJWOOLQ+6zSRc99mRhrOx7+Xlw6HZijbEa+3NU6PUjxBrb0358m+kMPMA20qNA6t5GZLtsZOPb0ciup8/Li8TGYYQ0t9jFXZ1PD6fdm/njoWySZO1LtO7SPwLkH2HH8gaf8/0hazt/pjpr9foyw4WpKYpq4MyPLafk/I7j4UDRX1LRu9L9W2MPeCbV4tgQfpZJV5gqT8HXmmlgmUU4tqI/WMlgnjUOYzt6v5zR6FzlOGenJfsLA9IK3MqW5xp22Hy2tbLda37ubv2jA9erNNDPThdvthH9sq3+dtz/ACdHFWERAH2ZDE6SBmAHHct7b/O3bXtaWzHG0M7mZAv0Bu0kbbfae4OlQRrCzOLsivijk5ZXljWM/aDeL+CycVsxZQusSDfnET9gPYjV4+DyNjFDNJFYMatzlrx12ceR3ErOp+n20KdD4nK5bLRwFhVoq5R3mH7W9j9I7nXTuD6etdIYjxMqvZ9RTPT5epZ47CSMB+/4ZezaHrHiHMTUdptR+D5GcmnmKh3Q+ndBiO/jB/p21DTziyVEhhjVVKxKAi7BR2A1v9Y+H+D8QLjZcZ+WhkzCkWzhZIGROw2GxGudb/UVinFBJXl4Tk7K3cFBrZxXi1dp+Wt/BVbie27RTSQuf9kuNQaFvULo9HNGLVxiAQyIWXxl9j/BWwHMNjrGEOp2Hpq3nLxP5LOmkCr4DPRiiet1MmSteW0kdeWDyF49jx+pwW1MdN+Knh5YnaWWrlMbMoBfmPNT/qaupfFfw1jupkY7eSsSiPjtBBIQNKAlMRG4XVYH6B1JDAiPIeljVpfqlqzl/Uz0p1h9LFG0TM+z/c2xH7D20z08q1/wt61Zqj1WGJuKIi7yHdY27c9D48RvDGdblCKHLyTXbsMvH0yIS6CQdyy9uelLovxHw13C5ODE4G/P6GtJK7y+TGeMu/Y89QkhRiW9qngd5ZNTIEMRZim08UP5n//Z"></image>
-              </g>,<g transform="translate(84, 0.000000)" mask="url(#mask-12)">
                 <image x="0" y="0" width="64" height="64" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAABFFBMVEX/bQD/59b/9/H/cQn/oFr/qmz/bQH/////m1H/r3X/cAb/9Ov/bQL/7N7//v3/fx//hy///v7/fiD/bwX/dA3/fR3/bgL/9vD//fv/wpX/bwT/exn/fR7/fyD/kkP/kkT/9e3/kkL/eRb/sHf/pmX/kUD/+fT/uon/cgr/7uH/7uL/oV3/dhH/8+v/snn/4cz/nFT/cAf/qGj/q2//lEb/eBX/v5D/gCP/nVf/6dn/8ef/hCr/9Oz/cw//+vb/1Lb/gST/cQv///7/iTL/tX//7d//hi7/uIT/3cX/iTP/gSP/6Nf/bwf//Pr//fz/ehn/y6b/jz3/zqr/+/f/x57/+/j/+PL/gyj/izX/17v/hCn/0a/VUx+gAAAA7ElEQVRIx2NgGLHAmZMIYI2kgZWdCMCCosGXET/w9kPTwMvDhhf4cGNowO9LrmGtQUZOVQwmLKwoL01Qg6yaoAFMWIVdQYmwk9TZGQ0hLBEtdmUi/KCjy24EYemxa2oQ42ljdisREG0qzq5NVCgxW7K7gGgzdn1h4oLVwkncn4HBwY7PhMh4EPNgl2RgC2C3ZyM24gIFg8MjJCTciI5ptmj2oEj2EBKSRlQoO3uYKClpSZKd3Z2kxOfJzudFkgYBdj7+UQ2ENHAJCUmNoHKJWA2ujsx4ga0NmgY+JgJAEE0DiVWWOQcRQHTkNhoAC/IhErnqJeEAAAAASUVORK5CYII="></image>
               </g>
                         </g>
@@ -78,17 +76,6 @@
                     </g>
                     <g id="tags" transform="translate(0.000000, 156.000000)">
                         <g transform="translate(0.000000, 0)">
-              <g id="bar" transform="translate(0.000000, 42.000000)">
-                <rect id="Bg" fill="#525866" x="0" y="0" width="320" height="4" rx="2"></rect>
-                <rect id="Fill" fill="#F5F8FC" x="0" y="0" width="320" height="4" rx="2"></rect>
-              </g>
-              <text id="Javascript" font-family="system-ui,-apple-system,BlinkMacSystemFont,Roboto,Helvetica,Ubuntu,Segoe UI,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol" font-size="24" font-weight="normal" line-spacing="30" fill="#FFFFFF">
-                <tspan x="0" y="22">.net</tspan>
-              </text>
-              <text id="79" font-family="system-ui,-apple-system,BlinkMacSystemFont,Roboto,Helvetica,Ubuntu,Segoe UI,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol" font-size="40" font-weight="bold" line-spacing="48" fill="#FFFFFF">
-                <tspan x="336" y="43">1</tspan>
-              </text>
-            </g>,<g transform="translate(0.000000, 66)">
               <g id="bar" transform="translate(0.000000, 42.000000)">
                 <rect id="Bg" fill="#525866" x="0" y="0" width="320" height="4" rx="2"></rect>
                 <rect id="Fill" fill="#F5F8FC" x="0" y="0" width="320" height="4" rx="2"></rect>
